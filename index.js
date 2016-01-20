@@ -1,4 +1,3 @@
-const fs = require('fs')
 const Rx = require('rx')
 const request = Rx.Observable.fromNodeCallback(require('request'))
 
