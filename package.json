@@ -1,0 +1,29 @@
+{
+  "name": "github-issues-to-markdown",
+  "version": "0.1.0",
+  "description": "A simple utility for easily extracting github issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agconti/github-issues-to-markdown.git"
+  },
+  "keywords": [
+    "github",
+    "github",
+    "issues",
+    "markdown"
+  ],
+  "author": "Andrew Conti <agc11d@gmail.com> (agconti.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agconti/github-issues-to-markdown/issues"
+  },
+  "homepage": "https://github.com/agconti/github-issues-to-markdown#readme",
+  "dependencies": {
+    "request": "^2.67.0",
+    "rx-node": "^1.0.1"
+  }
+}
