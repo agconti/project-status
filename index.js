@@ -1,5 +1,4 @@
 const Rx = require('rx')
-const marked = require('marked')
 const request = Rx.Observable.fromNodeCallback(require('request'))
 
 const oauthToken = process.argv[2]
