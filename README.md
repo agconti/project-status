@@ -1,5 +1,6 @@
 # my-open-prs
-![](https://media0.giphy.com/media/l2YWogPxLTLNSC9Dq/giphy.gif)
+![](https://media.giphy.com/media/3ofT5WN84R2sxzlK7K/giphy-downsized.gif)
+
 What PRs do I have open?!?!
 
 This is a simple utility that quickly gets and formats your outstanding pull requests. PRs are filtered by the `Ready for code review label` and are formatted nicely so you can alert your team to take a look:
@@ -7,7 +8,7 @@ This is a simple utility that quickly gets and formats your outstanding pull req
 ```
 - feat: super cool feature 😱  ( Opened 13 days ago ) (https://github.com/your-org/project/pull/1) L ⌚, Ready for code review ⚡
 - feat: omg moar features ( Opened 48 days ago ) (https://github.com/your-org/project/pull/2) Ready for code review ⚡, S ❤️
-- Fix: oh no. squashed a bug! ( Opened 4 days ago ) (https://github.com/your-org/project/pull/3) L ⌚, Ready for code review ⚡, wooops!
+- fix: oh no. squashed a bug! ( Opened 4 days ago ) (https://github.com/your-org/project/pull/3) L ⌚, Ready for code review ⚡, wooops!
 ```
 
 # Install
