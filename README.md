@@ -3,7 +3,7 @@
 
 What PRs do I have open?!?!
 
-This is a simple utility that quickly gets and formats your outstanding pull requests. PRs are filtered by the `Ready for code review label` and are formatted nicely so you can alert your team to take a look:
+This is a simple utility that quickly gets and formats your outstanding pull requests. PRs with the `Ready for code review label` are returned and formatted nicely so you can alert your team to take a look:
 
 ```
 - feat: super cool feature 😱  ( Opened 13 days ago ) (https://github.com/your-org/project/pull/1) L ⌚, Ready for code review ⚡
