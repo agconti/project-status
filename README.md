@@ -11,7 +11,7 @@ This is a simple utility that quickly gets and formats your outstanding pull req
 - fix: oh no. squashed a bug! ( Opened 4 days ago ) (https://github.com/your-org/project/pull/3) L ⌚, Ready for code review ⚡, wooops!
 ```
 
-# Install
+## Install
 Clone this repository:
 ```
 git clone git@github.com:agconti/my-open-prs.git
@@ -27,8 +27,7 @@ Update the start command to include your user.
 "start": "node index.js $(cat key.txt) giphy web-app :your-user"
 ```
 
-# Usage
-
+## Usage
 node index.js :token :owner :repository :user
 
 Ex:
