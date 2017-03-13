@@ -1,6 +1,5 @@
 const Rx = require('rx')
 const request = Rx.Observable.fromNodeCallback(require('request'))
-
 const [nodePath, filePath, oauthToken, owner, repository, user] = process.argv
 const url = `https://api.github.com/repos/${owner}/${repository}/issues?creator=${user}`
 const headers = {
