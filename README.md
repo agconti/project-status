@@ -17,7 +17,7 @@ Clone this repository:
 git clone git@github.com:agconti/my-open-prs.git
 ```
 
-Get a [personal access toke](https://github.com/settings/tokens) and add it a file named `key.txt`:
+Get a [personal access token](https://github.com/settings/tokens) and add it a file named `key.txt`:
 ```
 echo "your-token" > key.txt
 ```
