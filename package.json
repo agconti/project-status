@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js $(cat key.txt) agconti cookiecutter-django-rest"
+    "start": "node index.js $(cat key.txt) giphy web-app agconti"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agconti/github-issues-to-markdown.git"
+    "url": "git+https://github.com/agconti/my-open-prs.git"
   },
   "keywords": [
     "github",
@@ -20,9 +20,9 @@
   "author": "Andrew Conti <agc11d@gmail.com> (agconti.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/agconti/github-issues-to-markdown/issues"
+    "url": "https://github.com/agconti/my-open-prs/issues"
   },
-  "homepage": "https://github.com/agconti/github-issues-to-markdown#readme",
+  "homepage": "https://github.com/agconti/my-open-prs#readme",
   "dependencies": {
     "request": "^2.67.0",
     "rx-node": "^1.0.1"
