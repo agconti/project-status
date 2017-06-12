@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js $(cat key.txt) giphy web-app agconti"
+    "start": "node index.js $(cat key.txt) giphy web-app"
   },
   "repository": {
     "type": "git",
